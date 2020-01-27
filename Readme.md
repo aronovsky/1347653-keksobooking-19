@@ -1,6 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Евгений Варшавский](https://up.htmlacademy.ru/javascript/19/user/1347653).
+* Студент: 
 * Наставник: `Неизвестно`.
 
 ---
